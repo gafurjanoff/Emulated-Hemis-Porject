@@ -1,0 +1,82 @@
+{
+    "teacher_users": [
+        {
+            "first_name": "Samandar",
+            "last_name": "Gofurjonov",
+            "login_password": "teacher_00",
+            "login_username": "teacher"
+        },
+        {
+            "first_name": "Amina",
+            "last_name": "Ibrahimova",
+            "login_password": "teacher_01",
+            "login_username": "amina.ibrahimova"
+        },
+        {
+            "first_name": "Karim",
+            "last_name": "Rahmonov",
+            "login_password": "teacher_02",
+            "login_username": "karim.rahmonov"
+        },
+        {
+            "first_name": "Leyla",
+            "last_name": "Mirzayeva",
+            "login_password": "teacher_03",
+            "login_username": "leyla.mirzayeva"
+        },
+        {
+            "first_name": "Omar",
+            "last_name": "Bekmuratov",
+            "login_password": "teacher_04",
+            "login_username": "omar.bekmuratov"
+        },
+        {
+            "first_name": "Zarina",
+            "last_name": "Sharipova",
+            "login_password": "teacher_05",
+            "login_username": "zarina.sharipova"
+        },
+        {
+            "first_name": "Rustam",
+            "last_name": "Akramov",
+            "login_password": "teacher_06",
+            "login_username": "rustam.akramov"
+        },
+        {
+            "first_name": "Mariam",
+            "last_name": "Nazarova",
+            "login_password": "teacher_07",
+            "login_username": "mariam.nazarova"
+        },
+        {
+            "first_name": "Farhad",
+            "last_name": "Rashidov",
+            "login_password": "teacher_08",
+            "login_username": "farhad.rashidov"
+        },
+        {
+            "first_name": "Sabina",
+            "last_name": "Usmanova",
+            "login_password": "teacher_09",
+            "login_username": "sabina.usmanova"
+        },
+        {
+            "first_name": "Toxirjon",
+            "last_name": "Mirzaev",
+            "login_username": "toxirjon",
+            "login_password": "toxirjon_1975"
+        },
+        {
+            "first_name": "Shoqosim",
+            "last_name": "Shoqosimov",
+            "login_username": "shoqosim",
+            "login_password": "shoqosin_00"
+        },
+        {
+            "first_name": "Komol",
+            "last_name": "Komilov",
+            "login_username": "komol",
+            "login_password": "komol_00"
+        }
+    ]
+}

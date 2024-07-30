@@ -1,0 +1,40 @@
+{
+    "student_users": [
+        {
+            "first_name": "Javohir",
+            "last_name": "Mirzakholov",
+            "login_username": "java_here",
+            "login_password": "java_here77"
+        },
+        {
+            "first_name": "Mustafo",
+            "last_name": "Toxirjonov",
+            "login_username": "mustafo_00",
+            "login_password": "mustafo_77"
+        },
+        {
+            "first_name": "Jaxongir",
+            "last_name": "Gofurjonov",
+            "login_username": "jaxon",
+            "login_password": "jaxon_99"
+        },
+        {
+            "first_name": "Bobur",
+            "last_name": "Bobirjonov",
+            "login_username": "bobir",
+            "login_password": "bobir004"
+        },
+        {
+            "first_name": "Malik",
+            "last_name": "Malikov",
+            "login_username": "malik",
+            "login_password": "malik_99"
+        },
+        {
+            "first_name": "Qosimjon",
+            "last_name": "Qosimov",
+            "login_username": "qosim",
+            "login_password": "qosim_00"
+        }
+    ]
+}
